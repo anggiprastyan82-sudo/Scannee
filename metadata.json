@@ -1,0 +1,10 @@
+{
+  "name": "VeriDoc AI",
+  "description": "AI-powered document authenticity and manipulation detector.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
